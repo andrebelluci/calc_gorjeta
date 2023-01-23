@@ -17,7 +17,7 @@ body {
     width: 360px;
     margin: 100px auto;
     background: #f7f7f7;
-    /* box-shadow: 5px 5px 5px var(--tertiary-color); */
+    box-shadow: 5px 5px 5px var(--secondary-color);
     border-radius: 20px;
 }
 
@@ -66,4 +66,10 @@ body {
     height: 50px;
     font-size: 17px;
     color: white;
+}
+
+#totalTip {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
 }
