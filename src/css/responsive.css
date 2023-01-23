@@ -1,0 +1,15 @@
+@media (max-width: 375px) {
+    :root {
+        --primary-color: lightcoral;
+        --secondary-color: DimGrey;
+        --tertiary-color: Gainsboro;
+    }
+
+    #container {
+        width: 315px;
+    }
+
+    .title {
+        font-size: 18px;
+    }
+}
